@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gitBelep
 - 👀 I’m interested in a Java junior developer job. 
-- 🌱 I’m currently learning Spring Data JPA.
+- 🌱 I’m currently learning Spring with Hibernate..
 - 💞️ I’m looking to collaborate on intresting riddles.
 - 📫 ddawid81 _at_ gmail _dot_ com
 
