@@ -2,7 +2,7 @@
 - 🌱 Currently I’m developing; 
 - in my free time I'm learning Spring with Hibernate; Swing..
 - 👀 Maybe in the future I’ll be interested in a Java developer job. 
-- 💞️ I like intresting riddles.
+- 💞️ I like intresting riddles just like Advent of Code..
 - 📫 ddawid81 _at_ gmail _dot_ com
 
 <!---
